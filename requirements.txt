@@ -1,0 +1,17 @@
+streamlit
+transformers
+sentence-transformers
+bertopic
+hdbscan
+umap-learn
+pandas
+numpy
+matplotlib
+seaborn
+nltk
+openpyxl
+xlsxwriter
+tqdm
+scikit-learn
+torch
+plotly
